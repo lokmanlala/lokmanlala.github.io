@@ -1,8 +1,8 @@
 {
   "settings": {
-    "currentPage": "HOME.HOME",
+    "currentPage": "page5.html",
     "versionFirst": "2.5.2",
-    "versionPublish": "4.5.4",
+    "versionPublish": "4.6.2",
     "name": "DONUT",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
